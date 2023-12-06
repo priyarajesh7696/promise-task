@@ -1,0 +1,23 @@
+.container {
+  background-color: black;
+  align-items: center;
+  text-align: center;
+  border-radius: 30px;
+  padding: 20px;
+  padding-left: 100px;
+  margin: 100px;
+  height: 500px;
+  width: 700px;
+}
+span {
+  display: block;
+  align-items: center;
+  text-align: center;
+  border: 2px solid red;
+  border-radius: 20px;
+  height: 300px;
+  width: auto;
+  color: blue;
+  font-family: cursive;
+  font-size: xx-large;
+}
