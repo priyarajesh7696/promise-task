@@ -1,13 +1,11 @@
+
 .container {
-  background-color: black;
   align-items: center;
   text-align: center;
   border-radius: 30px;
-  padding: 20px;
-  padding-left: 100px;
-  margin: 100px;
-  height: 500px;
-  width: 700px;
+  padding: 5px;
+  margin: 10px;
+  background-color:silver;
 }
 span {
   display: block;
@@ -15,9 +13,9 @@ span {
   text-align: center;
   border: 2px solid red;
   border-radius: 20px;
-  height: 300px;
+  height: 500px;
   width: auto;
   color: blue;
-  font-family: cursive;
+  font-family: 'Times New Roman', Times, serif;
   font-size: xx-large;
 }
